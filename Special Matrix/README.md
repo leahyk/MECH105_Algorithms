@@ -11,4 +11,4 @@
 * a: the special matrix described above
 
 #### EXAMPLE
-After the function runs if m = 3 and n = 3, then a = [1 2 3; 2 4 7; 3 7 14]
+After the function runs if m = 3 and n = 3, then a = [1 2 3; 2 4 7; 3 7 14].
